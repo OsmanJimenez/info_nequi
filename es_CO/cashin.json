@@ -1,0 +1,39 @@
+{
+  "cashin": {
+    "title": "Recarga tu Nequi",
+    "form": {
+      "phoneNumber": {
+        "placeholder": "Número de celular"
+      },
+      "confirmPhoneNumber": {
+        "placeholder": "Confirma el número de celular",
+        "errorMessageConfirm": "¡Ups! Esos dos números no coinciden, porfa revísalos."
+      },
+      "transactionValue": {
+        "placeholder": "¿Cuánto?"
+      },
+      "personType": {
+        "placeholder": "Tipo de persona",
+        "errorMessageRequired": "Debes elegir un tipo de persona"
+      },
+      "bank": {
+        "placeholder": "Elige el banco",
+        "errorMessageRequired": "Debes elegir un banco"
+      }
+    },
+    "buttons": {
+      "success": "Sigue",
+      "cancel": "Cancela"
+    },
+    "modal": {
+      "title": "¿Quieres cancelar la recarga?",
+      "primaryButton": "Sí, cancela la recarga",
+      "secondaryButton": "Vuelve a la recarga"
+    },
+    "messagePse": "La recarga se hará usando los servicios de PSE o Transferencias Bancolombia se débitará de tu cuenta corriente o de ahorros.",
+    "help": {
+      "url": "https://ayuda.nequi.com.co/hc/es",
+      "text": "Ayuda"
+    }
+  }
+}
