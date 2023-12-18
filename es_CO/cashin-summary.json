@@ -8,5 +8,5 @@
     "personType": "Tipo de persona",
     "bank": "Elige el banco"
   },
-  "buttons": { "success": "Confirma", "cancel": "Atras" }
+  "buttons": { "success": "Confirma", "cancel": "Atrás" }
 }
