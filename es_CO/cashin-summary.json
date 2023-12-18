@@ -1,14 +1,12 @@
 {
-  "cashinSummary": {
-    "title": "Revisa la info",
-    "concept": "Recarga Nequi PSE",
-    "labels": {
-      "concept": "Concepto",
-      "confirmPhoneNumber": "Confirma el número de celular",
-      "transactionValue": "¿Cuánto?",
-      "personType": "Tipo de persona",
-      "bank": "Elige el banco"
-    },
-    "buttons": { "success": "Confirma", "cancel": "Atras" }
-  }
+  "title": "Revisa la info",
+  "concept": "Recarga Nequi PSE",
+  "labels": {
+    "concept": "Concepto",
+    "confirmPhoneNumber": "Confirma el número de celular",
+    "transactionValue": "¿Cuánto?",
+    "personType": "Tipo de persona",
+    "bank": "Elige el banco"
+  },
+  "buttons": { "success": "Confirma", "cancel": "Atras" }
 }
