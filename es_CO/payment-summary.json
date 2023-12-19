@@ -1,0 +1,25 @@
+{
+  "paymentSummary": {
+    "titleSummary": "Resumen",
+    "titleReceipt": "Comprobante",
+    "labels": {
+      "company": "Empresa",
+      "nit": "NIT",
+      "ip": "Dirección IP",
+      "status": "Estado",
+      "description": "Descripción",
+      "paymentDate": "Fecha de pago",
+      "reference": "Referencia",
+      "authorization": "Autorización",
+      "bank": "Elige el banco",
+      "total": "Total",
+      "phoneNumber": "Número de celular"
+    },
+    "buttons": {
+      "seeReceipt": "Ver comprobante",
+      "returnHome": "Regresar al inicio",
+      "print": "Imprimir"
+    },
+    "footer": "Recuerda que también puedes tomar un pantallazo desde tu cel"
+  }
+}
